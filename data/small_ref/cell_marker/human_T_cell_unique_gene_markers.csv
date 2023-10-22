@@ -1,0 +1,55 @@
+gene,n,cell_type
+BCL6,1,CD4+ Tfh
+BLIMP1,1,Exhausted T cell
+BTLA,1,Anergic T cell
+CBLB,1,Anergic T cell
+CCR10,1,CD4+ Th22
+CCR4P,1,CD4+ Th2
+CCR6,1,CD4+ Th17
+CD161,1,CD4+ Th17
+CD25,1,Treg cell
+CD40L,1,CD4+ Tfh
+CD5,1,CD4+ naive T cell
+CD62L,1,CD4+ naive T cell
+CTLA4,1,Treg cell
+CXCR3,1,CD4+ Th1
+CXCR5,1,CD4+ Tfh
+FOXO1,1,Treg cell
+FOXP3,1,Treg cell
+GITR,1,Treg cell
+GPR183,1,CD4+ memory T cell
+GRAIL,1,Anergic T cell
+HLA-B,1,CD4+ naive T cell
+IB11,1,Exhausted T cell
+ICOS,1,CD4+ Tfh
+IL10,1,CD4+ Th9
+IL12R,1,CD4+ Th1
+IL13,1,CD4+ Th2
+IL17A,1,CD4+ Th17
+IL18,1,CD4+ Th1
+IL1R,1,CD4+ Th17
+IL21,1,CD4+ Tfh
+IL21R,1,CD4+ Tfh
+IL23R,1,CD4+ Th17
+IL2RA,1,Treg cell
+IL4,1,CD4+ Th2
+IL5,1,CD4+ Th2
+IL7R,1,CD4+ naive T cell
+IL9,1,CD4+ Th9
+ITCH,1,Anergic T cell
+LAG3,1,Exhausted T cell
+NEDD4,1,Anergic T cell
+OX40L,1,CD4+ Tfh
+PD1,1,Exhausted T cell
+PDCD1,1,CD4+ Tfh
+PU1,1,CD4+ Th9
+S100A4,1,CD4+ memory T cell
+SLAM,1,CD4+ Tfh
+STAT1,1,CD4+ Th1
+STAT3,1,CD4+ Th17
+STAT4,1,CD4+ Th1
+STAT5,1,Treg cell
+THPOK,1,CD4+ naive T cell
+TIM3,1,Exhausted T cell
+TRDV2,1,¦Ã¦ÄT cell
+TRGV9,1,¦Ã¦ÄT cell
